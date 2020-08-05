@@ -34,7 +34,6 @@
 **Project Operation**
 The following operations will instantly start the project:
 ```
-git clone https://github.com/Xiayubing321/DeepKW.git
 
 cd Server
 
